@@ -1,0 +1,4 @@
+mcdonalds:
+  order:
+    poolSize: 10
+    poolNumber: 3
