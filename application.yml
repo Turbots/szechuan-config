@@ -1,4 +1,3 @@
 mcdonalds:
   order:
-    poolSize: 100
-    poolNumber: 33
+    chance: 10000
